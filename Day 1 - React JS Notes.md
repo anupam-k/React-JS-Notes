@@ -144,7 +144,7 @@ function App(){
 
 ## _Writing CSS_
 - Write within **_double curly braces_**
-- put the value of css 8*_inside invited comma_**
+- put the value of css **_inside invited comma_**
 - `style={{width: "18rem"}}`
 
 <br>
