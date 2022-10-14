@@ -72,5 +72,8 @@ All this comes from the <b>_react-scripts_</b>.
 - React.StrictMode
 
 ## _When we delete everything from src folder_
+- There are some defaults that we are using them
+- In React, they will automatically serach for index file
+- So to make everything up and running, we need to create index.js file inside src folder
 
 
