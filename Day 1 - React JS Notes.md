@@ -48,3 +48,18 @@ The same way it installs other technology like <b>react-native too</b>
 
 ## _Command to create a React App_
 > <b>npx create-react-app appName</b>
+
+## _Command to start the Server_
+> <b>npm start</b>
+
+Whenever we write _<b>npm start</b>_, first it goes to _<b>package.json</b>_ and see that npm start means _<b>react-scripts start</b>_. In other way we can say <b>_npm start_</b> is short form of _<b>react-scripts start</b>_.<br>
+All this comes from the <b>_react-scripts_</b>.
+
+## _index.html_
+- the entirety of application is dependent on _<b>Javascript</b>_
+- there is only one page that is _index.html_ which is a proof that react is **_Single Page Application(SPA)_**
+- the Application always loads from index page only
+
+## _src/index.js_
+- **_React_** doesn't use an **_Ordinary DOM_**, instead it uses a **_Virtual DOM_**
+- it is using `root` by using `document.getElementById('root')`
