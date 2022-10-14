@@ -63,3 +63,14 @@ All this comes from the <b>_react-scripts_</b>.
 ## _src/index.js_
 - **_React_** doesn't use an **_Ordinary DOM_**, instead it uses a **_Virtual DOM_**
 - it is using `root` by using `document.getElementById('root')`
+
+## _Study about_
+- Hydration Option
+- createRoot
+- ReactDOM
+- render
+- React.StrictMode
+
+## _When we delete everything from src folder_
+
+
