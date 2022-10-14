@@ -40,3 +40,5 @@ And **`<h1>Hello Home Page</h1>`** : **_HTML_**
 - Convert **_JSX Code_** to **_Pure JavaScript Code_**
 - **_ES6_** to Pure **_JavaScript_**
 - It is knowns as Trans(rewatch and write the point)
+
+`Watched upto 25:45`
