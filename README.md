@@ -36,8 +36,8 @@ This will consume a lot of space, that's a huge distadvantage<br>
 Or if there is an update in the create react app then we have to reinstall it or kind of update it<br>
 Earlier people use to do this way
 
-### Q. **So for each project we have to install React again and again?**<br>
-No, we have to install it <b>one time globally</b>, the it <b>works anytime</b> atleast on the system<br>
+### _Q. **So for each project we have to install React again and again?**_ <br>
+<b>No</b>, we have to install it <b>one time globally</b>, the it <b>works anytime</b> atleast on the system<br>
 
 <b>But there could be a better way</b><br>
 There was <b>another package introduced</b> which was <b>npx(node package exxecuter)</b><br>
