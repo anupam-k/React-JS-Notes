@@ -126,3 +126,8 @@ function App(){
 </b>
 
 - **Note:** When you are writing **HTML** inside a js function that is known as **_JSX_**
+
+## _Ways of adding CSS in React JS_
+- _Making a **separate css file**_
+- _Adding **inline** styling_
+- _Adding **styling** in **index.html** (bad way)_
