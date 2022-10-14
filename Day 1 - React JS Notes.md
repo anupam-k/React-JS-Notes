@@ -76,4 +76,9 @@ All this comes from the <b>_react-scripts_</b>.
 - In React, they will automatically serach for index file
 - So to make everything up and running, we need to create index.js file inside src folder
 
+## _Definitions_
+- **`<App />`** : _Component_ <br><br>
+- root.**`render`**(<App />) : _Rendering of Component_<br><br>
+- **`ReactDOM`** : _Vitual DOM_<br><br>
+- **`createRoot`** : _Hydrate you DOM with Javascript_<br><br>
 
