@@ -25,6 +25,16 @@ JSX where,<br>
 **JS** stands for **_JavaScript_**<br>
 **X** stands for **_HTML_**
 
+<b>
+
+```javascript
+const homePage = <h1>Hello Home Page</h1>
+```
+</b>
+
+Here, **`const homePgae`** : **_Javascript_** <br>
+And **`<h1>Hello Home Page</h1>`** : **_HTML_**
+
 ## _Babel_
 - **_Babel_** makes the wired looking **JSX code** into **_browser understandable code_**
 - Convert **_JSX Code_** to **_Pure JavaScript Code_**
