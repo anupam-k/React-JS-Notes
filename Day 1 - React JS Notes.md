@@ -82,3 +82,47 @@ All this comes from the <b>_react-scripts_</b>.
 - **`ReactDOM`** : _Vitual DOM_<br><br>
 - **`createRoot`** : _Hydrate you DOM with Javascript_<br><br>
 
+## _Want to use paragraph_
+## **_Wrong_**: _jsx expression must have one element_
+<b>
+  
+```javascript
+function App(){
+  return(
+    <h2>App function</h2>     //
+    <p> this is paragraph</p> // this is wrong: reason: jsx expression must have one element     
+    )
+}
+```
+</b>
+
+## **_Solution_**: _wrap the elements in a div_
+
+<b>
+  
+```javascript
+function App(){
+  return(
+  <div>
+    <h2>App function</h2>      
+    <p> this is paragraph</p> 
+  </div>
+    )
+}
+```  
+## _We can also use <></> empty fragments_
+```javascript
+function App(){
+  return(
+  <>
+    <h2>App function</h2>      
+    <p> this is paragraph</p> 
+  </>
+    )
+}
+```  
+  
+  
+</b>
+
+- **Note:** When you are writing **HTML** inside a js function that is known as **_JSX_**
