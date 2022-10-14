@@ -25,7 +25,7 @@ But After **Version 12** these function use to <b>take charge</b> for using them
 ---
 - Sometimes your npm version might be different and node version might be different
 
-## _Creating a React App_
+## _Creating a React App_ ⚛️
 
 Earlier we use to install the global library, it was almost similar to installing a software in your system
 > npm -g install create-react-app
@@ -125,9 +125,44 @@ function App(){
   
 </b>
 
-- **Note:** When you are writing **HTML** inside a js function that is known as **_JSX_**
+## _📌 Note:_ 
+
+- When you are writing <b>`HTML`</b> inside a <b>`JS`</b> function that is known as <b>`JSX`</b>
+
+- <b>`JSX`</b> is a <b>combination</b> of <b>`HTML`</b> and <b>`JS`</b>
+
+- <b>`JSX` = `HTML` + `JS`</b>
+
+<br>
 
 ## _Ways of adding CSS in React JS_
 - _Making a **separate css file**_
 - _Adding **inline** styling_
 - _Adding **styling** in **index.html** (bad way)_
+
+<br>
+
+## _Writing CSS_
+- Write within **_double curly braces_**
+- put the value of css 8*_inside invited comma_**
+- `style={{width: "18rem"}}`
+
+<br>
+
+## _Snippet(VS Code Extension)_: 
+  - ES7 + React/Redux/React-Native Snippets
+
+<br>
+
+## _JSX Rules_
+- Whenever you open any that then it should be closed
+ 
+<b>_JSX element 'img' has no closing tag_</b>
+- Without JSX: `<img src="">`
+
+- With JSX: `<img src="" />`
+
+<br>
+
+## _Note:_
+- In Javascript `class` is a **keyword**, hence use `className`
