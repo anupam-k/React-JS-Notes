@@ -56,5 +56,9 @@ export default Card;
 
 ## _State in React JS_
 
-
+## _[Hooks](https://reactjs.org/docs/hooks-intro.html)_
+  - _**useState**_
+  - _**useEffect**_
+  
+## _⚠️⚠️ Study Hooks from React JS Docs_
 
