@@ -8,6 +8,8 @@
 
 ## _How to dump the infomation of props?_
 
+
+## _Props_
 <b>
 
 ```javascript
