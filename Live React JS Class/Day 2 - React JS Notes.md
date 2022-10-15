@@ -52,5 +52,9 @@ export default Card;
 ```
 </b>
 
+## _Default Value in props_
+
+## _State in React JS_
+
 
 
