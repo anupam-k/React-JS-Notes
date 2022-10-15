@@ -6,3 +6,5 @@
 
 - **`Ctrl + d`** : to select a particular word in the whole file
 
+## _How to dump the infomation of props?_
+
