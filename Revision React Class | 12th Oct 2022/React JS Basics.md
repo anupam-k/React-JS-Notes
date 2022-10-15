@@ -26,3 +26,48 @@
 
 ## _📌 package-lock.json_
 - **_List of all the packages_** and the **_version of package getting installed_**
+---
+
+## _If we delete everything inside src folder then_
+ - React will search for index.js, as soon as we make an index.js file, the react-app will be up and running
+ 
+## _index.js_
+
+<b>
+
+```javascript
+import React from "react";
+import ReactDOM from "react-dom";
+
+const Home = <h1>Hello World!</h1>;
+
+ReactDOM.render(Home, document.getElementById(".root");
+```
+</b>
+
+## _Output_
+This will give Output as Hello World Written in H1 heading.
+
+## _Note:_
+- Now, after **_Version 17_** if we don't write `import React from "react";`, the system will understand automatically 
+
+- Always and always the **_Name of the function will start from Capital Alphabet_**
+
+<b>
+
+```javascript
+// import React from "react";
+import ReactDOM from "react-dom";
+
+function App(){ 
+  return <h1>Hello World!</h1>;
+}
+
+ReactDOM.render(<App />, document.getElementById(".root");
+```
+
+- In case of function, function name will come instead of Home and that to in `< />` this manner
+</b>
+
+## _Create a Component_
+`01:37:04`
