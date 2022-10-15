@@ -42,3 +42,34 @@ And **`<h1>Hello Home Page</h1>`** : **_HTML_**
 - It is knowns as Trans(rewatch and write the point)
 
 `Watched upto 25:45`
+
+## _using React in Simple HTML_
+- Use the same Order of import written below
+
+<b>
+  
+```javascript
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>React</title>
+  </head>
+  <body>
+    <div class="root">Not Used</div>
+    
+    <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>  // react
+    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>  reactDOM
+    <script src=" https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <script type="text/babel">  // babel
+      const homePage = <h1>Hello Home Page Anurag</h1>;
+      const home = document.querySelector(".root");
+      ReactDOM.render(homePage, home);
+    </script>  
+  </body>
+  </html>
+```
+  
+</b>
