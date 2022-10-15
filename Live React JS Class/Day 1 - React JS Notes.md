@@ -111,7 +111,8 @@ function App(){
     )
 }
 ```  
-## _We can also use <></> empty fragments_
+## _React can Throw only one component_
+_That's why We use <></> empty fragments_
 ```javascript
 function App(){
   return(
