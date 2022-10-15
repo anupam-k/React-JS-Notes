@@ -37,12 +37,12 @@ Or if there is an update in the create react app then we have to reinstall it or
 Earlier people use to do this way
 
 ### _Q. **So for each project we have to install React again and again?**_ <br>
-<b>No</b>, we have to install it <b>one time globally</b>, the it <b>works anytime</b> atleast on the system<br>
+<b>No</b>, we have to install it <b>one time globally</b>, then it <b>works anytime</b> atleast on the system<br>
 
 <b>But there could be a better way</b><br>
 There was <b>another package introduced</b> which was <b>npx(node package exxecuter)</b><br>
 With <b>npx</b> you <b>don't need to install</b> anything on the <b>system</b>,<br>
-it just that **you write and command** and it will **execute that command directly from the internet**
+it just that **you write the command** and it will **execute that command directly from the internet**
 <br>
 The same way it installs other technology like <b>react-native too</b>
 
@@ -52,7 +52,8 @@ The same way it installs other technology like <b>react-native too</b>
 ## _Command to start the Server_
 > <b>npm start</b>
 
-Whenever we write _<b>npm start</b>_, first it goes to _<b>package.json</b>_ and see that npm start means _<b>react-scripts start</b>_. In other way we can say <b>_npm start_</b> is short form of _<b>react-scripts start</b>_.<br>
+Whenever we write _<b>npm start</b>_, first it goes to _<b>package.json</b>_ and see that npm start means _<b>react-scripts start</b>_.<br> 
+In other way we can say <b>_npm start_</b> is short form of _<b>react-scripts start</b>_.<br>
 All this comes from the <b>_react-scripts_</b>.
 
 ## _index.html_
@@ -80,7 +81,7 @@ All this comes from the <b>_react-scripts_</b>.
 - **`<App />`** : _Component_ <br><br>
 - root.**`render`**(<App />) : _Rendering of Component_<br><br>
 - **`ReactDOM`** : _Vitual DOM_<br><br>
-- **`createRoot`** : _Hydrate you DOM with Javascript_<br><br>
+- **`createRoot`** : _Hydrate your DOM with Javascript_<br><br>
 
 ## _Want to use paragraph_
 ## **_Wrong_**: _jsx expression must have one element_
@@ -155,7 +156,7 @@ function App(){
 <br>
 
 ## _JSX Rules_
-- Whenever you open any that then it should be closed
+- Whenever you open any tag then it should be closed
  
 <b>_JSX element 'img' has no closing tag_</b>
 - Without JSX: `<img src="">`
