@@ -298,3 +298,63 @@ e.g. fontSize, fontWeight, etc.
 ## _Output_
 ![image](https://user-images.githubusercontent.com/91872149/195966531-a8f18dec-b052-4897-af01-dde3b60f8f8c.png)
 
+## _Writing CSS in Separate Style Tag_
+
+<b>
+
+```javascript
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>React</title>
+    <style>
+      .header{
+        color: grey;
+        border: 2px solid pink;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="root">Not Used</div>
+    
+    <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>  
+    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>  
+    <script src=" https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <script type="text/babel">
+      const home = document.querySelector(".root");
+      const Navbar = (
+        <div className="header">
+            <p>Home</p>
+            <p>About</p>
+        </div>
+      );
+      const Main = (
+        <div>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div>
+      );
+      const Footer = (
+        <div>
+            <p>CopyRight 2022 Anurag Tiwari</p>
+        </div>
+      );
+
+      const App = (
+        <div>
+          {Navbar} {Main} {Footer}
+        </div>
+      );
+      
+      ReactDOM.render(App,home); 
+    </script>  
+  </body>
+  </html>
+```
+</b>
+
+## _Output_
+![image](https://user-images.githubusercontent.com/91872149/195966764-e73c0041-5fe4-4d20-81bf-c89d738091b3.png)
