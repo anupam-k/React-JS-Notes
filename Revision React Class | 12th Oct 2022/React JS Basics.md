@@ -70,4 +70,26 @@ ReactDOM.render(<App />, document.getElementById(".root");
 </b>
 
 ## _Create a Component_
-`01:37:04`
+## _components/App.js_
+
+<b>
+
+```javascript
+function App(){ 
+  return <h1>Hello World!</h1>;
+}
+
+export default App;
+```
+
+## _index.js_
+
+```javascript
+// import React from "react";
+import ReactDOM from "react-dom";
+import App from "./components/App";
+
+ReactDOM.render(<App />, document.getElementById(".root");
+```
+</b>
+
