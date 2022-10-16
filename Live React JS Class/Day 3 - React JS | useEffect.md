@@ -1,7 +1,9 @@
-## _Topics_
+# _Topics_
 - _**async await**_
 - _**useEffect**_
 - _**Optional Chaining**_
+- _**handling the APIs**_
+- _**Random Quote Generator**_
 
 
 
