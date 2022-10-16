@@ -1,4 +1,8 @@
-## _async await_
+## _Topics_
+- _**async await**_
+- _**useEffect**_
+- _**Optional Chaining**_
+
 
 
 ## _Card.js_
@@ -40,5 +44,5 @@ export default Card;
  </b>
  
 -  _large can be accessed like this_
- `details.picture?.large`
+ **`details.picture?.large`**
 
