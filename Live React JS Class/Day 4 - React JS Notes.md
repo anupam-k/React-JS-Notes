@@ -99,3 +99,7 @@ All the requests which are dependent on anything, they will be sent to Thread Po
 - **_User:_**   View
 - **_Waiter:_** Controller
 - **_Chef:_**   Model
+
+## _Middleware_
+The middleware in node. js is a function that will have all the access for requesting an object, responding to an object, and moving to the next middleware function in the application request-response cycle.
+
