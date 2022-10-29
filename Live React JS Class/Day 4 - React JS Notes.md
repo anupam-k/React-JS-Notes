@@ -49,3 +49,12 @@ https://www.youtube.com/watch?v=GdwjE7bqQkY
 
 ## _API_
 - Application Programming Interface
+- The user initiates an API call that
+
+## _Node JS Architechture_
+- Request
+- Node.js Server
+- Event Queue
+- Thread Pool
+- Event Pool
+- 
