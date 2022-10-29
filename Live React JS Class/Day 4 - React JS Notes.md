@@ -107,3 +107,6 @@ The middleware in node. js is a function that will have all the access for reque
 `12345 => bcrypt => asdfghyjk`
 - bcrypt changes the normal password to encrypted form
 
+`12345 => bcrypt + salt => asdfghyjkwertyuio`
+
+- bcrypt=asdfghyjk & salt=wertyuio
