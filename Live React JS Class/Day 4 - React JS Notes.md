@@ -82,3 +82,7 @@ All the requests which are dependent on anything, they will be sent to Thread Po
 
 ## _Application Workflow_
 ![image](https://user-images.githubusercontent.com/91872149/198816978-27de59ea-8da2-4d39-ab73-6399a0ba8bfb.png)
+
+## _Database_
+- Structured Query Language(SQL)
+- Not only SQL(NoSQL)(eg.: mongoDB)
