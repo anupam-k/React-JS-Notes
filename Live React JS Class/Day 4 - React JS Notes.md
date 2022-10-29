@@ -46,3 +46,6 @@ https://www.youtube.com/watch?v=GdwjE7bqQkY
 ```
 
 - when we click a video, it generates a unique id for that specific id
+
+## _API_
+- Application Programming Interface
