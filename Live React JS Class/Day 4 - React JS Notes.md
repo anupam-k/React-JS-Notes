@@ -80,3 +80,5 @@ All the requests which are dependent on anything, they will be sent to Thread Po
 
 ![image](https://user-images.githubusercontent.com/91872149/198816640-3db5a418-bc22-4dda-94c6-21ca6730bf3d.png)
 
+## _Application Workflow_
+![image](https://user-images.githubusercontent.com/91872149/198816978-27de59ea-8da2-4d39-ab73-6399a0ba8bfb.png)
