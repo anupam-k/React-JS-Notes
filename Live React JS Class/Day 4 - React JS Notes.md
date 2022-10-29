@@ -103,3 +103,7 @@ All the requests which are dependent on anything, they will be sent to Thread Po
 ## _Middleware_
 The middleware in node. js is a function that will have all the access for requesting an object, responding to an object, and moving to the next middleware function in the application request-response cycle.
 
+## _Password Hashing_
+`12345 => bcrypt => asdfghyjk`
+- bcrypt changes the normal password to encrypted form
+
