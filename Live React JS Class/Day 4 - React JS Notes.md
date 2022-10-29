@@ -91,3 +91,11 @@ All the requests which are dependent on anything, they will be sent to Thread Po
 
 **_MySQL:_** Primary Key, row(table format)<br>
 **_NoSQL:_** Id, Key:value,
+
+## _MVC Architecture_
+- Model, View, Controller
+
+**Use Case of a Resturant**
+- **_User:_**   View
+- **_Waiter:_** Controller
+- **_Chef:_**   Model
