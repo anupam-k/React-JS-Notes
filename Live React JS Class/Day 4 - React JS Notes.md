@@ -57,4 +57,25 @@ https://www.youtube.com/watch?v=GdwjE7bqQkY
 - Event Queue
 - Thread Pool
 - Event Pool
-- 
+- External Resource
+
+## _Event Pool_
+All the requests which are not dependent on anything, then event Loop will execute them
+
+## _Thread Pool_
+All the requests which are dependent on anything, they will be sent to Thread Pool and then sent back to Event Pool
+
+![image](https://user-images.githubusercontent.com/91872149/198816568-31c3911f-bc99-46cc-a5aa-ea16a2baa398.png)
+
+## _Workflow of Nodejs Architecture_
+- Querying for Data
+- Deleteing Data
+- Updating Data
+
+## _Server_
+- Listen
+- Localhost(Domain)
+- PORT
+
+![image](https://user-images.githubusercontent.com/91872149/198816640-3db5a418-bc22-4dda-94c6-21ca6730bf3d.png)
+
