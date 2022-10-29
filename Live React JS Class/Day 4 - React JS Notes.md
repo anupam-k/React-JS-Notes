@@ -6,8 +6,6 @@
 - _**Building a Social Media Application**_
 - _**Best Practices**_
 
-## _Backend_
-
 ## _Write an Article on V8 📖_
 - _**Write an in-depth Article**_
 - _**What is is**_
@@ -17,3 +15,34 @@
 ## _Connecting the Dots_
 
 ## _Now we can watch:_ _Pro Backend Course_
+
+# _Backend_
+
+## _Tools of Backend Developers_
+- _**Node JS**_
+- _**Postman**_
+- _**Express JS**_
+
+## _How Internet Works?_
+- _**Request**_
+- _**Response**_
+- _**URL Query/URL String**_
+
+```javascript
+ineuron.ai/courses?
+```
+
+- as soon as you see question mark: means URL query parameter is going to start
+- We always have key value Pair
+
+```javascript
+ineuron.ai/courses?search_query=Full+Stack+Javascript+Bootcamp
+```
+
+- `+` is used to add another key value Pair
+
+```javascript
+https://www.youtube.com/watch?v=GdwjE7bqQkY
+```
+
+- when we click a video, it generates a unique id for that specific id
