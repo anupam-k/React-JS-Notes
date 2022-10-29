@@ -7,3 +7,9 @@
 - _**Best Practices**_
 
 ## _Backend_
+
+## _Write an Article on V8 📖_
+- _**Write an in-depth Article**_
+- _**What is is**_
+- _**Why it is being Used**_
+- _**What is it capable of**_
