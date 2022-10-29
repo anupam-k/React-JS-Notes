@@ -86,3 +86,8 @@ All the requests which are dependent on anything, they will be sent to Thread Po
 ## _Database_
 - Structured Query Language(SQL)
 - Not only SQL(NoSQL)(eg.: mongoDB)
+
+**_Collections:_** some sort of table kind of format, structure on which we will be entering the value
+
+**_MySQL:_** Primary Key, row(table format)<br>
+**_NoSQL:_** Id, Key:value,
