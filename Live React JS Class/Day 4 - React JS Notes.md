@@ -75,7 +75,8 @@ All the requests which are dependent on anything, they will be sent to Thread Po
 ## _Server_
 - Listen
 - Localhost(Domain)
-- PORT
+- PORT (place where a specific Site is placed)
+- A server contains from PORT 0 - 65535
 
 ![image](https://user-images.githubusercontent.com/91872149/198816640-3db5a418-bc22-4dda-94c6-21ca6730bf3d.png)
 
