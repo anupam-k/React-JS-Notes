@@ -1,6 +1,6 @@
 ![real estate (Banner (Landscape))](https://user-images.githubusercontent.com/91872149/195829285-2c378dd2-52eb-4742-9074-137d8f1ad79c.png)
 
-## _ReactJS or React or React.js_  🔯
+## _ReactJS or React or React.js_  🔯![React](https://img.shields.io/badge/react-js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 -  _**A JavaScript Library for Building User Interface(UI)**_
 - Created by **_Jordan Walke(Software Engineer at Facebook)_**
 - Released in the year **_2013_**
@@ -35,7 +35,7 @@ const homePage = <h1>Hello Home Page</h1>
 Here, **`const homePgae`** : **_Javascript_** <br>
 And **`<h1>Hello Home Page</h1>`** : **_HTML_**
 
-## _Babel_
+## _Babel_ ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 - **_Babel_** makes the wired looking **JSX code** into **_browser understandable code_**
 - Convert **_JSX Code_** to **_Pure JavaScript Code_**
 - **_ES6_** to Pure **_JavaScript_**
